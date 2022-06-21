@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java advanced.iml" filepath="$PROJECT_DIR$/Java advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multidimensional Arrays lab/Multidimensional Arrays lab.iml" filepath="$PROJECT_DIR$/Multidimensional Arrays lab/Multidimensional Arrays lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack and queues exercise/Stack and queues exercise.iml" filepath="$PROJECT_DIR$/Stack and queues exercise/Stack and queues exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack and queues lab/Stack and queues lab.iml" filepath="$PROJECT_DIR$/Stack and queues lab/Stack and queues lab.iml" />
+    </modules>
+  </component>
+</project>
